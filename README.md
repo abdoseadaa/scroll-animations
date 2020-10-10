@@ -26,6 +26,7 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Options](#options)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
@@ -54,11 +55,11 @@ Nothing required to start using it , just put it right in your files and that's 
 
 ### Installing
 
-- You can download an offline copy for you project just by clicking Download Zip up above 👆👆
+- You can download an offline copy for you project 📴 , just by clicking Download Zip up above 👆👆
 
 Or
 
-- you can use npm to install it , run the line below in your machine command line (need Node.js to be installed )
+- you can use npm to install it , run the line below in your machine command line (need Node.js to be installed ) 📁📁
 
 ```
 npm install scroll-aniamtions --save
@@ -66,7 +67,7 @@ npm install scroll-aniamtions --save
 
 OR
 
-- You can use the CDN links below and include it directly to your project
+- You can use the CDN links below and include it directly to your project 🔗🔗
 
 ```
 link.css
@@ -88,31 +89,24 @@ link.js
 link.min.js
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+- After downloading files or adding CDN links , Add the data-scroll attribute to any element of your HTML code
+  example :
+
+```
+<div data-scroll="fade-up 1s hide">
+ <h1>code here...</h1>
+</div>
+```
+
+## 🎈 Options <a name="options"></a>
+
+- version 1.0.0 comes with limited options for this library for now for sure 😌😀
+
+# So How to Edit it ?
+
+# "data=scroll='fade-up 2s hide'"
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
