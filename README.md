@@ -111,7 +111,26 @@ data-scroll='fade-up 2s hide'
 ```
 
 - in order to work properly you need to add at least one property in the data-scroll attr and that would be the animation behavior like "fade-up , slide-up , blur ... etc "
-  see all examples on here [Scroll Animations Examples](https://scroll.abdoseadaa.com/examples/) - Examples
+  see all examples on here [Scroll Animations Examples](https://scroll.abdoseadaa.com/examples/)
+
+Example for one property
+
+```
+data-scroll='fade-up'
+```
+
+- By default animation duration is 1.5 seconds , but if you want to change it you can do it easily by adding second property beside the animation behavior like so 👇👇
+
+```
+data-scroll='fade-up .5s'
+```
+
+- If you want the parent element of the selected element to have over-flow hidden add so element start the animation on it's container only you need to add "hide" beside the duration property , like so 👇
+
+```
+data-scroll='fade-up .5s hide'
+
+```
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
