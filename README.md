@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px style="object-fit:cover;" height=200px src="https://i.pinimg.com/originals/7e/f8/40/7ef840ef893dfc2f18fbd55367b318cf.gif" alt="Project logo"></a>
+ <img style="max-width:100%; object-fit: cover;border-radius: 50%;"  src="https://i.pinimg.com/originals/7e/f8/40/7ef840ef893dfc2f18fbd55367b318cf.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Scroll Animations</h3>
