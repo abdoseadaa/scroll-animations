@@ -106,7 +106,7 @@ link.min.js
 
 # So How to Edit it ?
 
-# "data=scroll='fade-up 2s hide'"
+# data=scroll='fade-up 2s hide'
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
