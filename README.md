@@ -132,6 +132,8 @@ data-scroll='fade-up .5s hide'
 
 ```
 
+- And thats is for now , more features is coming with upper versions🥳😌✨🎉
+
 ## 🚀 Deployment <a name = "deployment"></a>
 
 Add additional notes about how to deploy this on a live system.
