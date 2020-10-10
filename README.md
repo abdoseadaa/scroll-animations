@@ -148,11 +148,11 @@ Add additional notes about how to deploy this on a live system.
 - [abdoseadaa](https://github.com/abdoseadaa) - Idea & Initial work
 - [abdoseadaa](https://twitter.com/abdoseadaa) - Twitter
 - [abdoseadaa](https://abdoseadaa.com/) - My website
-- [Scroll Animations](https://abdoseadaa.com/) -Library Website
+- [Scroll Animations](https://scroll.abdoseadaa.com/) -Library Website
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - الفضل كل الفضل والحمد كل الحمد لله ❤
 - Thanks to the people whom helped me to do this small project [Eng/Osama Elzero , DevEd , Traversy Media , and many many more......Thanks alot ❤]
 - Inspiration was by the aos library (animate on scroll)
-- References
+- [aos](https://michalsnik.github.io/aos/) - References
