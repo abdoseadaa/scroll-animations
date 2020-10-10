@@ -34,8 +34,8 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Scroll animations is a new library that will make your website alive 😀
-with only one data attribute you can do a lot with less code 😌
+- Scroll animations is a new library that will make your website alive 😀
+- with only one data attribute you can do a lot with less code 😌
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
