@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Fast and Fancy animations , Easy to use and perfect for any kind of style..
     <br> 
 </p>
 
@@ -34,7 +34,8 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Scroll animations is a new library that will make your website alive 😀
+with only one data attribute you can do a lot with less code 😌
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -42,21 +43,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Nothing required to start using it , just put it right in your files and that's it 🥳
 
 ```
-Give examples
+<div data-scroll="fade-up 1s hide">
+  <h1>code here...</h1>
+</div>
+
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+You can download an offline copy for you project just by clicking Download Zip up above 👆👆
 
-Say what the step will be
+Or
 
-```
-Give the example
-```
+you can use npm to install it , run the line below in your machine command line (need Node.js to be installed )
+
+`npm install scroll-aniamtions --save`
 
 And repeat
 
