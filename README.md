@@ -60,7 +60,11 @@ Or
 
 you can use npm to install it , run the line below in your machine command line (need Node.js to be installed )
 
-`npm install scroll-aniamtions --save`
+```
+
+npm install scroll-aniamtions --save
+
+```
 
 And repeat
 
