@@ -147,6 +147,8 @@ Add additional notes about how to deploy this on a live system.
 
 - [@abdoseadaa](https://github.com/abdoseadaa) - Idea & Initial work
 - [@abdoseadaa](https://twitter.com/abdoseadaa) - Twitter
+- [abdoseadaa](https://abdoseadaa.com/) - My website
+- [Scroll Animations](https://abdoseadaa.com/) -Library Website
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
