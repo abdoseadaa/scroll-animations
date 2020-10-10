@@ -64,10 +64,28 @@ Or
 npm install scroll-aniamtions --save
 ```
 
-And repeat
+OR
+
+- You can use the CDN links below and include it directly to your project
 
 ```
-until finished
+link.css
+```
+
+```
+link.min.css
+```
+
+```
+link.scss
+```
+
+```
+link.js
+```
+
+```
+link.min.js
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
