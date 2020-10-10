@@ -104,9 +104,14 @@ link.min.js
 
 - version 1.0.0 comes with limited options for this library for now for sure 😌😀
 
-# So How to Edit it ?
+- So How to Edit it ?
 
-# data=scroll='fade-up 2s hide'
+```
+data-scroll='fade-up 2s hide'
+```
+
+- in order to work properly you need to add at least one property in the data-scroll attr and that would be the animation behavior like "fade-up , slide-up , blur ... etc "
+  see all examples on here [Scroll Animations Examples](https://scroll.abdoseadaa.com/examples/) - Examples
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
