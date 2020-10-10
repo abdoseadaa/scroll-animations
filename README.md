@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Fast and Fancy animations , Easy to use and perfect for any kind of style..
+<p align="center"> Fast and Fancy animations , Easy to use and perfect for any kind of style.. 🎉✨🎨
     <br> 
 </p>
 
@@ -54,16 +54,14 @@ Nothing required to start using it , just put it right in your files and that's 
 
 ### Installing
 
-You can download an offline copy for you project just by clicking Download Zip up above 👆👆
+- You can download an offline copy for you project just by clicking Download Zip up above 👆👆
 
 Or
 
-you can use npm to install it , run the line below in your machine command line (need Node.js to be installed )
+- you can use npm to install it , run the line below in your machine command line (need Node.js to be installed )
 
 ```
-
 npm install scroll-aniamtions --save
-
 ```
 
 And repeat
