@@ -3,7 +3,7 @@
  <img style="max-width:100%; object-fit: cover;border-radius: 50%;"  src="https://i.pinimg.com/originals/7e/f8/40/7ef840ef893dfc2f18fbd55367b318cf.gif" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Scroll Animations</h3>
+<h3 align="center">Scroll Magik</h3>
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-- Scroll animations is a new library that will make your website alive 😀
+- Scroll Magik is a new library that will make your website alive 😀
 - with only one data attribute you can do a lot with less code 😌
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
@@ -111,7 +111,7 @@ data-scroll='fade-up 2s hide'
 ```
 
 - in order to work properly you need to add at least one property in the data-scroll attr and that would be the animation behavior like "fade-up , slide-up , blur ... etc "
-  see all examples on here [Scroll Animations Examples](https://scroll.abdoseadaa.com/examples/)
+  see all examples on here [Scroll Magik Examples](https://scroll.abdoseadaa.com/examples/)
 
 Example for one property
 
@@ -148,7 +148,7 @@ Add additional notes about how to deploy this on a live system.
 - [abdoseadaa](https://github.com/abdoseadaa) - Idea & Initial work
 - [abdoseadaa](https://twitter.com/abdoseadaa) - Twitter
 - [abdoseadaa](https://abdoseadaa.com/) - My website
-- [Scroll Animations](https://scroll.abdoseadaa.com/) -Library Website
+- [Scroll Magik](https://scroll.abdoseadaa.com/) -Library Website
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
@@ -156,4 +156,4 @@ Add additional notes about how to deploy this on a live system.
 - Thanks to the people whom helped me to do this small project [Eng/Osama Elzero , DevEd , Traversy Media , and many many more......Thanks alot ❤]
 - Inspiration was by the aos library (animate on scroll)
 - [aos](https://michalsnik.github.io/aos/) - Reference
-"# scroll-magik" 
+  "# scroll-magik"
