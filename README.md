@@ -155,4 +155,4 @@ Add additional notes about how to deploy this on a live system.
 - الفضل كل الفضل والحمد كل الحمد لله ❤
 - Thanks to the people whom helped me to do this small project [Eng/Osama Elzero , DevEd , Traversy Media , and many many more......Thanks alot ❤]
 - Inspiration was by the aos library (animate on scroll)
-- [aos](https://michalsnik.github.io/aos/) - References
+- [aos](https://michalsnik.github.io/aos/) - Reference
